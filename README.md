@@ -17,7 +17,7 @@ Lab 7: DateTime
 
 Lab 8: Classes
 
-Lab 9:
+Lab 9: Exception Handling
 
 Lab 10:
 
