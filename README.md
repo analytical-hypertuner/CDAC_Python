@@ -19,6 +19,6 @@ Lab 8: Classes
 
 Lab 9: Exception Handling
 
-Lab 10:
+Lab 10: Regular Expressions(RegeX) and recursion etc
 
 
